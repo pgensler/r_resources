@@ -22,7 +22,7 @@ https://github.com/r-lib
 
 
 #### UTF-8
-R has had many UTF-8 issues so these resources are meant to help overcome those issues:
+R has had many UTF-8 issues so these resources are meant to help overcome those issues:  
 https://cran.r-project.org/web/packages/utf8/vignettes/utf8.html  
 https://unicode-table.com/en/#control-character  
 https://apps.timwhitlock.info/unicode/inspect?s=  
