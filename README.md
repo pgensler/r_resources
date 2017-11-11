@@ -9,7 +9,9 @@ https://github.com/cwickham/purrr-tutorial/blob/master/slides.pdf
 https://rawgit.com/bioinformatics-core-shared-training/r-intermediate/master/ggplot2.html
 
 #### purrr 
-https://github.com/cwickham/purrr-tutorial
+https://github.com/cwickham/purrr-tutorial  
+tidyeval(rlang) is incredibily helpful to complement purrr  
+https://schd.ws/hosted_files/user2017/43/tidyeval-user.pdf  
 
 #### tidyr & dplyr
 tidyr and readr
