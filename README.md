@@ -6,7 +6,8 @@ Iteration using the purrr package:
 https://github.com/cwickham/purrr-tutorial/blob/master/slides.pdf
 
 #### Into to ggplot2
-https://rawgit.com/bioinformatics-core-shared-training/r-intermediate/master/ggplot2.html
+https://rawgit.com/bioinformatics-core-shared-training/r-intermediate/master/ggplot2.html  
+https://github.com/holtzy/R-graph-gallery  
 
 #### purrr 
 https://github.com/cwickham/purrr-tutorial  
