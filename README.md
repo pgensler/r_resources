@@ -12,6 +12,7 @@ https://rawgit.com/bioinformatics-core-shared-training/r-intermediate/master/ggp
 https://github.com/cwickham/purrr-tutorial  
 tidyeval(rlang) is incredibily helpful to complement purrr  
 https://schd.ws/hosted_files/user2017/43/tidyeval-user.pdf  
+https://www.r-project.org/dsc/2017/slides/tidyeval-hygienic-fexprs.pdf  
 
 #### tidyr & dplyr
 tidyr and readr
