@@ -17,6 +17,7 @@ https://www.r-project.org/dsc/2017/slides/tidyeval-hygienic-fexprs.pdf
 
 #### tidyr & dplyr
 tidyr and readr
+http://garrettgman.github.io/tidying/  
 https://raw.githubusercontent.com/rstudio/cheatsheets/master/data-import.pdf  
 dplyr
 https://github.com/rstudio/webinars/blob/master/05-Data-Wrangling-with-R-and-RStudio/wrangling-webinar.pdf  
