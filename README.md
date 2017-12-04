@@ -46,7 +46,8 @@ https://github.com/ropensci/user2016-tutorial/blob/master/03-scraping-data-witho
 #### Searching for help
 http://r-project.markmail.org/  
 https://www.rdocumentation.org/search?q=extract2  
-https://github.com/noamross/zero-dependency-problems  
+https://github.com/noamross/zero-dependency-problems
+https://discuss.analyticsvidhya.com/latest
 
 
 #### RStudio IDE Repo
