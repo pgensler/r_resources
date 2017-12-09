@@ -2,14 +2,17 @@
 resources for r programming
 
 ### R Master Resource List
-Iteration using the purrr package:
-https://github.com/cwickham/purrr-tutorial/blob/master/slides.pdf
+Start with Master the Tidyverse: 
+https://github.com/rstudio/master-the-tidyverse  
+https://github.com/rstudio/master-the-tidyverse-solutions   
 
 #### Into to ggplot2
 https://rawgit.com/bioinformatics-core-shared-training/r-intermediate/master/ggplot2.html  
 https://github.com/holtzy/R-graph-gallery  
 
 #### purrr 
+Iteration using the purrr package:
+https://github.com/cwickham/purrr-tutorial/blob/master/slides.pdf
 https://github.com/cwickham/purrr-tutorial  
 tidyeval(rlang) is incredibily helpful to complement purrr  
 https://schd.ws/hosted_files/user2017/43/tidyeval-user.pdf  
